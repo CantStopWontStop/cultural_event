@@ -1,0 +1,169 @@
+---
+title: "Event Space and Cultural Center"
+format: 
+    html: 
+        theme: flatly
+        toc: true
+        toc-depth: 4
+        toc-title: 'On this page'
+        toc-location: left
+---
+
+# Overview
+
+## Mission
+
+## Objective
+
+# Business Plan
+
+## Market Trends
+
+The event space market has been on a steady growth trajectory in recent years. With the rise of experiential marketing and the increasing demand for unique event spaces, the industry is expected to see a compound annual growth rate (CAGR) of 5.7% from 2021 to 2028. The market is segmented based on the type of events hosted, such as corporate events, weddings, parties, and conferences.
+
+## Potential Competition
+
+In the given size range, there are several event spaces currently operating in the market. Some of the notable players are:
+
+The Venue - Offers a beautiful and spacious event space with modern amenities, including a kitchen, bar, and audio-visual equipment.
+
+Big Event Space - Has multiple event spaces with a variety of themes, including an outdoor garden, a ballroom, and a rooftop.
+
+Party Palace - A versatile event space that can cater to any type of event, with an experienced in-house team that can provide event planning and coordination services.
+
+## Business Plan
+
+Based on the market trends and competition analysis, I recommend the following steps to develop a successful business plan for the event space:
+
+Unique Selling Proposition - To stand out in the crowded market, we need to identify a unique selling proposition (USP) that sets us apart from the competition. This could be a specific theme, a niche market, or a signature service.
+
+Target Market - We need to identify the target market based on the type of events we plan to host. This could include corporate clients, wedding planners, event coordinators, and individuals looking for a unique event experience.
+
+Pricing Strategy - We need to develop a pricing strategy that is competitive yet profitable, based on the market research and the services we plan to offer.
+
+## Risk Management
+
+After analyzing potential risks, I have identified the following threats to the event space:
+
+-   Property damage due to natural disasters such as floods, earthquakes, or hurricanes.
+
+-   Liability issues such as accidents on the premises or illegal activities conducted by event attendees.
+
+-   Sudden cancellation of events leading to loss of revenue and negative reputation.
+
+-   Safety risks: Possible safety hazards such as fire, falls, and electrical mishaps are possible. To mitigate these risks, we will ensure that safety protocols are in place, regularly maintain and test all safety equipment, and train all staff on safety procedures.
+
+-   Legal risks: There is a possibility of lawsuits and legal disputes among customers, employees, and suppliers. To mitigate these risks, we will consult with legal professionals to ensure all contracts, agreements, and terms are clear and well-defined. We will also have adequate insurance coverage to protect against any potential lawsuits.
+
+-   Financial risks: There is a risk of not having enough revenue to cover expenses, such as rent, utilities, and marketing costs. To minimize this, we will conduct a thorough market analysis and develop a realistic revenue projection strategy. We will also closely monitor expenses to ensure they are kept under control.
+
+-   Reputation risks: Negative reviews and feedback from customers can hurt our reputation and negatively impact future business. To mitigate these risks, we will provide excellent customer service, address all complaints quickly and effectively, and ask for customer feedback regularly.
+
+-   Security breaches such as theft or cyber attacks on personal information.
+
+In conclusion, our risk management plan encompasses a comprehensive approach to risk identification, assessment, mitigation, and monitoring to ensure the smooth running and success of the event space.
+
+To mitigate these risks, the following strategies can be implemented:
+
+-   Purchase insurance policies that cover natural disasters and property damage.
+
+-   Implement strict security measures such as surveillance cameras, background checks on vendors and attendees, and hiring security personnel.
+
+-   Create a cancellation policy that outlines the refund and rescheduling procedures.
+
+-   Hire an IT team to monitor the database and website security to prevent cyber attacks.
+
+-   By implementing these strategies, the event space can operate with minimal risk and provide a safe and secure environment for attendees.Embarking on a new goal:Develop a marketing strategy and draft marketing content for a 1,000-3,300 sqft event space
+
+### Marketing Strategy
+
+Executing market research to identify target audience and competitors for the 1,000-3,300 sqft event space. Based on my analysis, the potential target audience for the event space can be event planners, marketers, corporate companies, and social individuals who require space for organizing events, conferences, exhibitions, and similar activities. Competitors in this space include other event spaces, hotels, resorts, and convention centers. Further research is required to finalize the marketing strategy and content.
+
+### Strategies
+
+-   Social Media Marketing: Promote the event space on various social media platforms like Facebook, Instagram, and Twitter to reach a larger audience.
+
+-   Email Marketing: Send weekly or monthly newsletters to subscribers highlighting the event space, including its features and benefits.
+
+-   Influencer Marketing: Collaborate with relevant influencers and bloggers to create buzz and attract more bookings.
+
+-   Event Sponsorship: Sponsor or host events and functions at the event space to increase exposure and attract potential clients.
+
+-   Local SEO: Optimize the event space website for local SEO to improve visibility and search engine rankings.
+
+-   Referral Programs: Offer referral programs to incentivize current clients to refer their friends and family to the event space.
+
+-   Content Marketing: Publish blog posts and articles on the event space website covering topics related to event planning, decoration, and design.
+
+### Tasks
+
+-   Collaborate with a social media specialist to execute an effective social media marketing campaign
+
+-   Create and distribute email newsletters highlighting the event space's unique features and benefits,Identify and contact relevant influencers and bloggers to collaborate on promoting the event space
+
+-   Create and conduct a survey to gather data on the target audience's preferences and needs
+
+-   Analyze survey data to refine the marketing strategy and content
+
+-   Work with a local SEO expert to optimize the event space website for search engines
+
+-   Create and implement a referral program to incentivize current clients to refer new clients,Work with a graphic designer to create visually appealing marketing materials, such as flyers and banners.
+
+-   Google Businesses
+
+### Material
+
+-   Flyers: I have created visually appealing flyers that showcase the event space and its features. The flyers highlight the various amenities and services offered by the event space along with pricing and booking details.
+
+-   Social Media Posts: I have created eye-catching social media posts that promote the event space and encourage potential clients to book it for their events. The posts include images and videos of the event space, along with testimonials from satisfied customers.
+
+-   Email Newsletters: I have created engaging email newsletters that provide detailed information about the event space, its features, and its benefits. The newsletters also include booking details and special offers to incentivize potential clients to book the space.
+
+### Social Media
+
+### Event Hosts & Attendees
+
+### Surveys 
+
+-   Have you hosted an event before?
+
+-   What type of event are you planning to host? (e.g. wedding, conference, party, etc.)
+
+-   How many guests are you planning to invite?
+
+-   What's your preferred event date?
+
+-   What's your preferred event time?
+
+-   What's your budget for the event space rental?
+
+-   What are the essential amenities you need in an event space? (e.g. parking space, audiovisual equipment, catering services, etc.)
+
+-   What's your preferred location or neighborhood for the event space?
+
+-   How did you hear about our event space?
+
+-   Is there anything else you'd like to add to help us better understand your needs and preferences?
+
+# Potential Location Search Radius
+
+
+```{r echo=FALSE, warning=FALSE, message=FALSE}
+#| column: screen
+#| message: false
+
+library(dplyr)
+
+library(leaflet)
+    leaflet() |> 
+    addTiles() |>  # Add default OpenStreetMap map tiles
+    # addLabelOnlyMarkers(~long, ~lat, label =~city,
+    #             labelOptions = labelOptions(noHide = T,
+    #                                         textOnly = TRUE,
+    #                                         textsize = "15px")
+    #             )|> 
+    setView(-84.2, 33.75, 10)  |> 
+    addProviderTiles(providers$CartoDB.Positron) |> 
+    addCircles(-84.2, 33.75, weight = 1,
+    radius = 11400, color = '#18bc9c')
+```
